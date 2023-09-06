@@ -1,13 +1,13 @@
 {
-  "main.css": "/liveweather/static/css/main.ebf33237.chunk.css",
-  "main.js": "/liveweather/static/js/main.39f27605.chunk.js",
-  "main.js.map": "/liveweather/static/js/main.39f27605.chunk.js.map",
+  "main.css": "/liveweather/static/css/main.5cf48a3d.chunk.css",
+  "main.js": "/liveweather/static/js/main.5fb51ec3.chunk.js",
+  "main.js.map": "/liveweather/static/js/main.5fb51ec3.chunk.js.map",
   "static/js/1.a5480ee6.chunk.js": "/liveweather/static/js/1.a5480ee6.chunk.js",
   "static/js/1.a5480ee6.chunk.js.map": "/liveweather/static/js/1.a5480ee6.chunk.js.map",
   "runtime~main.js": "/liveweather/static/js/runtime~main.840b0639.js",
   "runtime~main.js.map": "/liveweather/static/js/runtime~main.840b0639.js.map",
-  "static/css/main.ebf33237.chunk.css.map": "/liveweather/static/css/main.ebf33237.chunk.css.map",
+  "static/css/main.5cf48a3d.chunk.css.map": "/liveweather/static/css/main.5cf48a3d.chunk.css.map",
   "index.html": "/liveweather/index.html",
-  "precache-manifest.701252c7345659ef86316f8e5495bcb1.js": "/liveweather/precache-manifest.701252c7345659ef86316f8e5495bcb1.js",
+  "precache-manifest.96d64de66380901a771f5eb4bf77a98a.js": "/liveweather/precache-manifest.96d64de66380901a771f5eb4bf77a98a.js",
   "service-worker.js": "/liveweather/service-worker.js"
 }
